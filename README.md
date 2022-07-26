@@ -1,4 +1,5 @@
 # php-server-macOS
+![alt text](https://github.com/WangNok/php-server-macOS/blob/main/banner.png?raw=true)
 A lightweight php server for macOS.
 
 # Setup

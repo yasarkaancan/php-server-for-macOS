@@ -8,9 +8,11 @@ Open the ```Terminal``` and Paste below.
 1) Download & Update Brew
 
 ```
-~ % /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
-~ % brew update
+```
+brew update
 ```
 
 2) Download PHP
@@ -27,3 +29,17 @@ brew install php
 7) Open your browser and go to the adress ```localhost:9000```
 
 8) Enjoy & Star !
+
+# Usage
+
+1) Open the start_server.command
+
+2) Open your browser and go to the adress ```localhost:9000```
+
+3) Done !
+
+# MySQL
+
+1) Download MySQL Community Server : https://dev.mysql.com/downloads/mysql/
+2) Download MySQL Workbench : https://dev.mysql.com/downloads/workbench/
+3) Do the rest from this tutorial : https://www.dev2qa.com/how-to-use-mysql-on-mac/

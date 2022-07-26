@@ -1,5 +1,16 @@
 <?php 
 error_reporting(E_ERROR | E_PARSE);
+
+
+	if(!is_dir('htdocs')){
+		mkdir('htdocs');
+	}
+	if(!is_dir('archive')){
+		mkdir('archive');
+	}
+
+
+
     $curFiles = scandir(getcwd().'/htdocs/');
     $pp = array(
         array_search('.', $curFiles) ,
@@ -34,7 +45,7 @@ rsort($arcFiles);
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<title></title>
+	<title>macOS - localhost</title>
 </head>
 <body>
 	<div class="navbar">

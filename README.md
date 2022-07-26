@@ -43,3 +43,8 @@ brew install php
 1) Download MySQL Community Server : https://dev.mysql.com/downloads/mysql/
 2) Download MySQL Workbench : https://dev.mysql.com/downloads/workbench/
 3) Do the rest from this tutorial : https://www.dev2qa.com/how-to-use-mysql-on-mac/
+
+# Why
+
+Why would I use this instead of apache ?
+- Because it is super lightweight and its easy to use & just an php server. Not more .

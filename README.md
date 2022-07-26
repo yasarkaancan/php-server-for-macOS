@@ -24,4 +24,6 @@ brew install php
 5) Close the editor.
 6) Open the ```start_server.command``` with terminal. (If any error occurs open terminal and paste ```chmod u+x /Users/*Username Here*/Documents/localhost/start_server.sh```
 
-7) Enjoy & Star !
+7) Open your browser and go to the adress ```localhost:9000```
+
+8) Enjoy & Star !
